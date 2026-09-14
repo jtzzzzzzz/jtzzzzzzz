@@ -18,6 +18,3 @@ And… from time to time, I enjoy spending my free time doing digital art.
 
 #### 📌 Check my projects!
 👇👇👇
-
-<!-- Los proyectos fijados (BeanTrack y ColorCheck) se muestran automáticamente
-     aquí abajo desde la sección "Pinned" que configures en tu perfil de GitHub -->
